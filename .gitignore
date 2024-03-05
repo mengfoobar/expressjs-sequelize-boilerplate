@@ -1,0 +1,4 @@
+database.sqlite
+database.sqlite*
+.idea/
+node_modules/
